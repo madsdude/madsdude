@@ -16,8 +16,8 @@ Her på GitHub kan du finde kode og værktøjer til netværksadministration, scr
 
 ## 🚀 Mine Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madschurchill&show_icons=true&theme=radical)  
-![Top sprog](https://github-readme-stats.vercel.app/api/top-langs/?username=madschurchill&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madsdude&show_icons=true&theme=radical)  
+![Top sprog](https://github-readme-stats.vercel.app/api/top-langs/?username=madsdude&layout=compact&theme=radical)
 
 ---
 

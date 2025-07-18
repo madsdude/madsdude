@@ -13,4 +13,20 @@ Her på GitHub kan du finde kode og værktøjer til netværksadministration, scr
 
 ---
 
+
+## 🚀 Mine Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madschurchill&show_icons=true&theme=radical)  
+![Top sprog](https://github-readme-stats.vercel.app/api/top-langs/?username=madschurchill&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Teknologistack
+
+![Cisco](https://img.shields.io/badge/Cisco-00677F?style=for-the-badge&logo=cisco&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-FF6C37?style=for-the-badge&logo=fortinet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 *Tak for at du kiggede forbi!*

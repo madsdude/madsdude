@@ -11,9 +11,6 @@ Jeg er netværksinfrastruktur-specialist med fokus på Cisco, FortiGate, MPLS og
 ## Mine projekter  
 Her på GitHub kan du finde kode og værktøjer til netværksadministration, scripts til automatisering og små utilities, som jeg bruger i mit daglige arbejde.
 
-## Kontakt  
-Du kan følge mig her eller kontakte mig via mail: [din.email@eksempel.dk]
-
 ---
 
 *Tak for at du kiggede forbi!*

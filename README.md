@@ -29,4 +29,11 @@ Her på GitHub kan du finde kode og værktøjer til netværksadministration, scr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+## 📌 Pinned Repositories
+
+Here are some of my highlighted projects:
+
+- [**Netværks-guide**](https://github.com/madsdude/Network) - Scripts og værktøjer til automatisering af netværksopsætning.  
+- [**Netværk-for-nybegynder**](https://github.com/madsdude/Netw-rk-for-nybegynder) - Eksempler på integration med FortiGate via API.  
+
 *Tak for at du kiggede forbi!*
